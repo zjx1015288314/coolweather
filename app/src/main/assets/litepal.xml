@@ -1,5 +1,5 @@
 
-//将数据库名指定为cool_weather，数据库版本指定为“1”，并将Province、City、County这3个实体类添加到映射列表
+<!--将数据库名指定为cool_weather，数据库版本指定为“1”，并将Province、City、County这3个实体类添加到映射列表-->
 <litepal>
     <dbname value="cool_weather" />
     <version value="1" />
